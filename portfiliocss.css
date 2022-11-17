@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    /* grid-auto-flow: column; */
+    grid-auto-columns: 24rem;
+    grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
+    gap: 2rem; 
+
+}
+
+.container {
+    align-items: center;
+
+}
+
+section {
+    background-color: rgb(126, 88, 38);
+}
+
+

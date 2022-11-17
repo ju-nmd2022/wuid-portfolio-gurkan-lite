@@ -1,16 +1,56 @@
+/* body {
+    
+        background-color: blanchedalmond;
+        max-width: 800px;
+        margin: auto 
+
+} */
+
+/* main {
+    background-color: blanchedalmond;
+    max-width: 800px;
+    margin: auto 
+} */
 
 p{ 
     font-family: "baskerville" , serif;
+    text-align: center;
+    margin:0%
+}
+
+li{
+    font-family: "baskerville" , serif;
+    text-align: center;
+    
+
 }
 
 h1{
-    Font-family: "bodoni", serif
+    Font-family: "bodoni", serif;
+    text-align: center;
 }
 
 h2{
-    font-family: "bodoni", serif
+    font-family: "bodoni", serif;
+    text-align: center;
+    
 }
 
-body{
-    background-color:#d5cfebfd;
+body {
+    background-color:#e2e0e9fd;
+        max-width: 1920px;
+        margin: auto 
+    
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+@media screen and (min-width 414px) and (max-width 1366px ) 
+ body{
+    
+}
+
+  
